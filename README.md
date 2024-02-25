@@ -83,6 +83,8 @@ Ikke det mest effektive språket når det gjelder ytelse.
 Ikke ideelt for applikasjoner med høy ytelse som spill eller systemprogramvare.
 Global Interpreter Lock (GIL) kan begrense ytelsen i multitrådede applikasjoner.
 
+# Konklusjon
+
 Valg av språk avhenger av den spesifikke utfordringen. Hvis utfordringen er relatert til webutvikling, kan JavaScript være det beste valget på grunn av dets sterke støtte for webteknologier. Hvis utfordringen er relatert til vitenskapelig databehandling eller maskinlæring, kan Python være det beste valget på grunn av dets sterke støtte for disse områdene. Hvis utfordringen krever høy ytelse og robusthet, kan Java være det beste valget.
 
 <img width=100% src="https://i.kym-cdn.com/photos/images/original/001/952/714/efd.gif"/>
